@@ -105,6 +105,9 @@ Para correr el servidor en local, simplemente se deben dar los siguientes pasos:
 Para ver el servidor en producción, solo es necesario acceder a esta IP: *164.90.255.20*
 Con esta IP se puede ver el mensaje de bienvenida y según la documentación de la API acceder a los servicios expuestos. 
 
+## Covertura de Testing
+![Coverage](./docs/coverage-testing.png)
+
 ## Documentación de la API
 
 La documentación de la API podrás encontrarla aquí. Realizada a través de POSTMAN
